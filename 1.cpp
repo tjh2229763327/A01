@@ -71,6 +71,8 @@ A a3=move(a1);
 a3.a=3;
 a3=move(a2);
 
+cout<<"hello"<<endl;
+
 return 0;
 }
 
